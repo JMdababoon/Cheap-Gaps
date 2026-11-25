@@ -1,4 +1,5 @@
 # Cheap Gaps
+Changes the golden apple recipie from one apple surrounded by eight gold ingots to one apple surrounded by four ingots in all four cardinal directions.
 
 ## Setup
 
